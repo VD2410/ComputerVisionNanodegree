@@ -1,3 +1,3 @@
 # ComputerVisionNanodegree
 
-[image1]: ./CVND.png"
+![](./CVND.png)
